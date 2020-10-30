@@ -1,8 +1,17 @@
 body {
     margin: 0;
     font-family: Arial, san-serif;
+    background-color: salmon;
   }
   
+  main{
+    background-color: salmon;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+  }
+
   .teachers {
     list-style: none;
     padding: 0;
